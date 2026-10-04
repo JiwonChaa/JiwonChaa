@@ -8,6 +8,7 @@ My work includes:
 - **Open physics courseware:** I write and maintain [phyedu.net](https://phyedu.net/), with about 2,600 articles across 56 series and 59 interactive simulations. The material ranges from high school mechanics to graduate-level topics.
 - **Teaching AI through physics:** My high school course introduces machine learning through ideas students encounter in the physics lab: least squares as a loss function, a ball rolling downhill as an analogy for gradient descent, and heat diffusion and its reversal as an introduction to diffusion models.
 - **Machine learning experiments:** I study model training as a measurement problem. One project compares one-factor-at-a-time, Plackett–Burman, and full factorial designs across 156 training runs of a small CNN.
+- **Community:** I am an assistant manager of [물리 세계로의 즐거운 항해](https://cafe.naver.com/physvoyage) ("A Joyful Voyage into the World of Physics"), a physics community on Naver Cafe.
 
 ## Projects
 
